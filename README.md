@@ -14,5 +14,5 @@ Bu proje, Model-View-Controller (MVC) mimarisi kullanılarak geliştirilmiş bir
 - React Icons: React uygulamaları için özelleştirilebilir ikon seti.
 - Millify: Büyük sayıları insan tarafından okunabilir bir formata biçimlendirmek için kullanılan yardımcı bir araç.
 
-![](/public/coin.gif)
-# CoinMania
+![](/public/coinmony.gif)
+# kripto
