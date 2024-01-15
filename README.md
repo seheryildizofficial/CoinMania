@@ -4,7 +4,7 @@ Bu proje, Model-View-Controller (MVC) mimarisi kullanılarak geliştirilmiş bir
 
 # Kütüphaneler
 
-- Bootstrap: Duyarlı ve mobil öncelikli web siteleri oluşturmak için bir ön yüz çerçevesi.
+- Bootstrap: Duyarlı web siteleri oluşturmak için bir ön yüz çerçevesi.
 - Formik: React için bir form kütüphanesi; formları ve form doğrulamalarını kolayca yönetmeye yardımcı olur.
 - Yup: Formik ile sorunsuz entegrasyon sağlayan şema tabanlı bir doğrulama kütüphanesi.
 - Regex: Regular Expressions (Düzenli İfadeler), metin tabanlı veri analizi ve doğrulama için kullanılmıştır.
