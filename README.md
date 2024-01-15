@@ -13,6 +13,7 @@ Bu proje, Model-View-Controller (MVC) mimarisi kullanılarak geliştirilmiş bir
 - Chart.js ve React-Chartjs-2: Kripto para verilerini görüntülemek için etkileşimli ve görsel olarak çekici grafikler oluşturmak için kullanılan kütüphaneler.
 - React Icons: React uygulamaları için özelleştirilebilir ikon seti.
 - Millify: Büyük sayıları insan tarafından okunabilir bir formata biçimlendirmek için kullanılan yardımcı bir araç.
+- Netlify'de Canlı İncele: https://paralan.netlify.app/
 
 ![](/public/coinmony.gif)
 
